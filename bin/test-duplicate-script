@@ -1,0 +1,8 @@
+#!perl
+
+# DATE
+# VERSION
+
+1;
+# ABSTRACT: Just a no-op script for testing (bin/test-duplicate-script)
+# PODNAME:
